@@ -108,7 +108,6 @@ certifi==2020.12.5
 cffi==1.15.0
 chardet==4.0.0
 charset-normalizer==2.0.4
-chrome-gnome-shell==0.0.0
 click==8.0.1
 colorama==0.4.4
 cryptography==3.4.7
